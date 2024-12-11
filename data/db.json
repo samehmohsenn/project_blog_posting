@@ -1,0 +1,34 @@
+{
+    "blogs": [
+        {
+            "title": "A Glass of Water",
+            "body": "and maybe a couple of pills.",
+            "author": "alter ego",
+            "id": 1
+        },
+        {
+            "title": "I Shouldn't",
+            "body": "have done that, or haven't?",
+            "author": "alter ego",
+            "id": 2
+        },
+        {
+            "title": "My First PROJECT", 
+            "body": "I have many things in mind", 
+            "author": "Sam M", 
+            "id":3
+        },
+        {
+            "title": "Get Out, The Moment You Can't", 
+            "body": "Nothing can ruin your life like this", 
+            "author": "Alter Ego", 
+            "id":4
+        },
+        {
+            "title": "When it start getting gloomy", 
+            "body": "Now it's time to do everything you wanted to do", 
+            "author": "Sam M", 
+            "id":5
+        }
+    ]
+}
